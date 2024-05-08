@@ -2,7 +2,7 @@
   <img width="300" src="https://hermes.dio.me/companies/a169bb67-5f72-4289-9778-fcea58dfa19a.png">
 </div>
 
-## 📚 Trilha Python DIO
+## 🐍 Trilha Python DIO
 Esse repositório contém os desafios da Trilha de Python da plataforma DIO.
 
 ## 📒 Sobre
